@@ -1,4 +1,4 @@
-- [Market Basket Analysis using SQL](https://qosf.com/https://qosf.com/market-basket-analysis.html)
+- [Market Basket Analysis using SQL](https://qosf.com/market-basket-analysis.html)
 - [RATIO_TO_REPORT](https://qosf.com/ratio_to_report.html)
 - [CONDITIONAL_TRUE_EVENT](https://qosf.com/conditional_true_event.html)
 - [MATCH_RECOGNIZE](https://qosf.com/match_recognize.html)
